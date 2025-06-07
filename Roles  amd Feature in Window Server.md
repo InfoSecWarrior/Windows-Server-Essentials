@@ -1,5 +1,5 @@
 
-## **1. Roles in Windows Server**
+# **1. Roles in Windows Server**
 
 1. **Active Directory Domain Services (AD DS)**
 
@@ -31,12 +31,7 @@
    * Provides remote access to desktops and applications.
    * Includes roles like **RD Gateway**, **RD Session Host**, **RD Web Access**, etc.
 
-7. **Windows Deployment Services (WDS)**
-
-   * Automates OS installation over the network.
-   * Ideal for deploying Windows images to multiple computers.
-
-8. **Network Policy and Access Services (NPAS)**
+7. **Network Policy and Access Services (NPAS)**
 
    * Manages VPN, RADIUS authentication, and network access control.
    * Supports **802.1X** for secure wired/wireless access.
@@ -63,7 +58,7 @@
 
 ---
 
-## **2. Features in Windows Server**
+# **2. Features in Windows Server**
 
 A **feature** is an optional capability that supports or enhances server roles.
 
@@ -110,3 +105,4 @@ A **feature** is an optional capability that supports or enhances server roles.
 
     * Enables remote management of roles and features from another Windows machine.
 
+---
